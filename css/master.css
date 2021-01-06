@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+/* .side-nav {
+  border-right: 1px solid #000;
+  min-height: 100vh;
+}
+
+.navigation {
+}
+
+.navigation-link {
+
+  color: #000;
+}
+.navigation-header {
+  padding-top: 1em;
+  line-height: 2em;
+  list-style: none;
+}
+
+.navigation-item {
+  line-height: 2em;
+  list-style: square;
+} */
+body {
+  background-color: #f3f4f5;
+  color: #2c3e50;
+  line-height: 1.15;
+  font-family: 'Roboto Mono', monospace;
+}
+.feed {
+  /* border: 1px solid black; */
+}
+
+.note-title a {
+  font-size: 1.5em;
+  line-height: 2.25em;
+  color: #2c3e50;
+  font-weight: bold;
+}
+
+.note-title a:hover {
+  color: #b82009;
+}
+
+.note-image {
+  /* border: 1px solid black; */
+}
+.note {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
+  padding: 1em;
+}
+
+.nav-links {
+  color: #2c3e50;
+  padding: 0 1em 0 1em;
+}
+
+.nav-links:hover {
+  color: #b82009;
+}
